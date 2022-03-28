@@ -1,0 +1,21 @@
+.pai{
+    width: 500px; height: 500px; background-color: #000000;
+ }
+ .A{
+
+
+    background-color: rgb(251, 255, 0); height: 250px; width: 250px;
+ }
+ .B{
+
+    color: white; background-color: red; font: 25px; font-family: monospace; font-weight: bold;
+ }
+ .C{
+
+    width: 50vh; height: 50vh; background-color: rgb(0, 191, 255);
+ }
+ .D{
+
+    width: 75vh; height: 50%; background-color: rgb(255, 0, 0);
+
+ }
